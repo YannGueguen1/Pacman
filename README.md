@@ -1,5 +1,5 @@
 # <div>PacMan Game</div>
-This is a factory for making PacMen and see them move around the page. 
+This is a factory for making PacMen and seeing them move around the page
 
 # <div>How To Run</div>
 Press the button "Add PacMan" to add a PacMan onto the page
@@ -17,3 +17,5 @@ Press the button "Add PacMan" to add a PacMan onto the page
 
 
 <img src="images/PacMan1.png">
+
+***
