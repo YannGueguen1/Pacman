@@ -10,8 +10,7 @@ Press the button "Add PacMan" to add a PacMan onto the page
 > - There are two images of PacMen for each direction (left to right and right to left), showing it with either a closed or open mouth
 
 # <div>Future Improvements</div>
-> - 
-> - 
+> - Improve styling of page, using Bootstrap for example
 
 # <div>License Information</div>
 [MIT License](https://mit-license.org/)
